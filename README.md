@@ -1,1 +1,1 @@
-I am also a solo game developer. [Idle AI Empire](https://github.com/MIhMol/idle-ai-empire) is my cyberpunk idle/incremental game, built in Godot 4.5 behind a 924-test suite and [free to play in your browser].
+Hi
