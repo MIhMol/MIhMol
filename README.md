@@ -1,3 +1,1 @@
-﻿I build production automation systems: n8n workflows (also Make.com and Zapier) wired to the Claude API, with real testing, secret hygiene, and documentation. Three production-ready builds (lead intake, support triage, invoice parsing) are documented in [n8n-demo-workshop](https://github.com/MIhMol/n8n-demo-workshop), and I take on automation work through [Upwork](https://www.upwork.com/freelancers/~01c7609d38031dc2df).
-
-I am also a solo game developer. [Idle AI Empire](https://github.com/MIhMol/idle-ai-empire) is my cyberpunk idle/incremental game, built in Godot 4.5 behind a 924-test suite and [free to play in your browser](https://touchme228.itch.io/idle-ai-empire).
+I am also a solo game developer. [Idle AI Empire](https://github.com/MIhMol/idle-ai-empire) is my cyberpunk idle/incremental game, built in Godot 4.5 behind a 924-test suite and [free to play in your browser].
